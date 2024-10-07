@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently study on **Bandung Polythecnic of Manufacture**
+ 🔭 I’m currently study on **Bandung Polytechnic of Manufacture**
  
  🌱 I’m currently learning **Machine Learning, Python, React, Laravel**
 
